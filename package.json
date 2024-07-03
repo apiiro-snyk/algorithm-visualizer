@@ -58,7 +58,7 @@
     "react-scripts": "^3.0.1",
     "react-toastify": "^5.2.1",
     "redbox-react": "^1.6.0",
-    "redux": "^4.0.1",
+    "redux": "^4.2.1",
     "redux-actions": "^2.6.5",
     "remove-markdown": "^0.3.0",
     "screenfull": "^4.2.0",
